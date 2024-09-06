@@ -1,0 +1,62 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+nbproject/private/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment configuration
+*.env
+
+# Application-specific files
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.swp
+*.swo
+*.swn
+*.orig
+*.bak
+*.tmp
+*.pid
+*.seed
+
+# Web server files
+*.war
+*.ear
+
+# Package distribution
+*.tar.gz
+*.zip
+
+# Compiled JavaScript (if applicable)
+*.js.map
+
+# Temporary files
+*.tmp
+
+# Build directories
+build/
